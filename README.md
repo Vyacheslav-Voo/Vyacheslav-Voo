@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vyacheslav-Voo
-- 👀 I’m interested in learning today
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stepanovvo1987@gmail.com
