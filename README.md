@@ -1,4 +1,4 @@
-- Hi, I’m @Vyacheslav_Voo;
+- Hi, I’m Vyacheslav_Voo;
 - I’m interested in learning;
 - I’m currently learning programming;
 - I’m looking to collaborate in the development of new projects built on blockchain;
